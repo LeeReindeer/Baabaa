@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">咕噜</string>
+
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="baabaa" translatable="false">咕噜</string>
+    <string name="string_day">天</string>
+    <string name="string_about">About</string>
+    <string name="string_check_update">Update</string>
+    <string name="string_backup">Backup</string>
+    <string name="string_setting">Setting</string>
+    <string name="string_edit">写下值得纪念的事情…</string>
+    <string name="string_type">类型</string>
+    <string name="string_commemoration">纪念日</string>
+    <string name="string_countdays">倒计时</string>
+    <string name="string_birthday">阳历生日</string>
+    <string name="string_lunarbirthday">农历生日</string>
+    <string name="string_writeevent">记事</string>
+    <string name="string_pintop">置顶</string>
+    <string name="string_date">日期</string>
+    <string name="string_choosedate">请点击选择日期</string>
+    <string name="string_save">Save</string>
+    <string name="string_delete">Delete</string>
+    <string name="text_add_event">Try to add event</string>
+    <string name="text_pin">Try to pin a event</string>
+    <string name="toast_new_version">目前已是最新版本</string>
+    <string name="toast_about"><![CDATA[咕噜 (●´З｀●)]]></string>
+    <string name="title_edit">Edit</string>
+    <string name="title_new">New</string>
+    <string name="title_select">Select json file</string>
+
+    <string name="pref_trans">Transition Anim</string>
+    <string name="pref_double_press">Double press to exit edit</string>
+    <string name="pref_backup">Backup</string>
+    <string name="pref_restore">Restore</string>
+    <string name="toast_selext_image">Please select image</string>
+    <string name="toast_write_some">Don\'t forget to write something</string>
+    <string name="toast_date">Please choose date</string>
+    <string name="taost_saved">Saved</string>
+    <string name="toast_double_press">Press again to exit, data will not save</string>
+    <string name="toast_deleted">Deleted</string>
+    <string name="toast_cant_delete">Can\'t Delete</string>
+    <string name="toast_no_permisson">No permission</string>
+    <string name="string_image_type">图片</string>
+    <string name="string_color_type">纯色</string>
+</resources>

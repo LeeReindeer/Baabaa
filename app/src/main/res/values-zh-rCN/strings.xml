@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="string_day">天</string>
+    <string name="string_about">关于咕噜</string>
+    <string name="string_check_update">更新</string>
+    <string name="string_backup">备份</string>
+    <string name="string_setting">设置</string>
+    <string name="string_edit">写下值得纪念的事情…</string>
+    <string name="string_type">类型</string>
+    <string name="string_commemoration">纪念日</string>
+    <string name="string_countdays">倒计时</string>
+    <string name="string_birthday">阳历生日</string>
+    <string name="string_lunarbirthday">农历生日</string>
+    <string name="string_writeevent">记事</string>
+    <string name="string_pintop">置顶</string>
+    <string name="string_date">日期</string>
+    <string name="string_choosedate">请点击选择日期</string>
+    <string name="string_save">保存</string>
+    <string name="string_delete">删除</string>
+    <string name="text_add_event">快试试添加事件吧～</string>
+    <string name="text_pin">快试试定制事件吧～</string>
+
+    <string name="toast_new_version">目前已是最新版本</string>
+    <string name="toast_about"><![CDATA[咕噜 (●´З｀●)]]></string>
+    <string name="toast_selext_image">请选择一张图片</string>
+    <string name="toast_write_some">别忘了写点东西哦</string>
+    <string name="toast_date">请选择日期</string>
+    <string name="taost_saved">已保存</string>
+    <string name="toast_double_press">再按一次退出编辑，改动将不会保存</string>
+    <string name="toast_deleted">已删除</string>
+    <string name="toast_cant_delete">啊哦，出故障了</string>
+    <string name="toast_no_permisson">唔，没有访问权限</string>
+
+    <string name="title_edit">编辑事件</string>
+    <string name="title_new">增加事件</string>
+    <string name="title_select">选择 json 文件 </string>
+
+    <string name="pref_trans">开启过渡动画</string>
+    <string name="pref_double_press">双击返回退出编辑</string>
+    <string name="pref_backup">备份</string>
+    <string name="pref_restore">还原</string>
+
+</resources>

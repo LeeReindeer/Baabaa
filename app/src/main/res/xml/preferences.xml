@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="General">
+        <CheckBoxPreference
+            android:key="pref_key_trans"
+            android:title="@string/pref_trans"
+            android:defaultValue="true" />
+
+        <CheckBoxPreference
+            android:key="pref_key_double_Press"
+            android:title="@string/pref_double_press"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Backup">
+
+        <Preference
+            android:title="@string/pref_backup"
+            android:key="pref_key_backup">
+        </Preference>
+
+        <Preference
+            android:title="@string/pref_restore"
+            android:key="pref_key_restore">
+        </Preference>
+
+    </PreferenceCategory>
+</PreferenceScreen>
